@@ -44,11 +44,10 @@ export default async function handler(req, res) {
 
       res.status(200).json({ message: 'Cookie consent saved successfully' });
     } catch (error) {
-      console.error('Error saving cookie consent:', error);
+      console.error('Error saving consent:', error);
       res.status(500).json({ error: 'Failed to save cookie consent' });
     }
   } else {
     res.status(405).json({ error: 'Method not allowed' });
   }
 }
-
