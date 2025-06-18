@@ -1,0 +1,28 @@
+[
+  {
+    "ipAddress": "::1",
+    "timestamp": "2025-06-18T09:58:39.467Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0"
+  },
+  {
+    "ipAddress": "::1",
+    "timestamp": "2025-06-18T10:02:47.643Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+  },
+  {
+    "ipAddress": "::1",
+    "timestamp": "2025-06-18T10:37:54.487Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "policyAccepted": true,
+    "policyText": "We use cookies on this site to improve your browsing experience, analyze individualized usage and website traffic, tailor content to your preferences, and make your interactions with our website more meaningful. To learn more about the cookies we use and how you can change your preferences, please read our Cookie Policy and visit our Cookie Preference Manager. By clicking “Accept and Proceed,” closing this banner or continuing to browse this site, you consent to the use of cookies.",
+    "consentVersion": "1.0"
+  },
+  {
+    "ipAddress": "::1",
+    "timestamp": "2025-06-18T10:42:23.241Z",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "policyAccepted": true,
+    "policyText": "We use cookies on this site to improve your browsing experience, analyze individualized usage and website traffic, tailor content to your preferences, and make your interactions with our website more meaningful. To learn more about the cookies we use and how you can change your preferences, please read our Cookie Policy and visit our Cookie Preference Manager. By clicking “Accept and Proceed,” closing this banner or continuing to browse this site, you consent to the use of cookies.",
+    "consentVersion": "1.0"
+  }
+]
