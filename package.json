@@ -1,8 +1,7 @@
 {
-  "name": "cookie-consent-server",
+  "name": "zerokost",
   "version": "1.0.0",
   "scripts": {
     "dev": "vercel dev"
-  },
-  "dependencies": {}
+  }
 }
